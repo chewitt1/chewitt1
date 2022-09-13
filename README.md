@@ -1,4 +1,18 @@
-# Hi there 👋
+### Hi there 👋
+
+##Welcome to my GitHub! I'm a Fourth Year College Student excited to start developing and contributing!
+
+# 🔭 I’m currently working on:
+- M&D Cleaning Website
+- Portfolio Website V2
+
+# 🌱 I’m currently learning
+- Agile
+- React.JS
+
+# 🤔 I’m looking for help with finding what projects to contribute to as a beginner
+
+#⚡ Fun fact: My favorite game is Sims 3 (feel free to recommend some other types of games, I'm trying to diversify my gameplay)
 
 
 <!--
