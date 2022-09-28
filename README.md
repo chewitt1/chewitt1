@@ -10,7 +10,7 @@
 - Agile
 - React.JS
 
-## 🤔 I’m looking for help with finding what projects to contribute to as a beginner
+## 🤔 I’m looking for ways to improve my software development skills
 
 ## ⚡Fun fact: My favorite game is Sims 3 (feel free to recommend some other types of games, I'm trying to diversify my gameplay)
 
