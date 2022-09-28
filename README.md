@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Welcome to my GitHub Page! I'm a Future Software Developer excited to start developing and contributing!
+# Welcome to my GitHub Page! I am a Future Software Developer excited to start developing and contributing!
 
 ## 🔭 I’m currently working on:
 - Personal Website (chewitt1.github.io)
