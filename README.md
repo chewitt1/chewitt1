@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-# Welcome to my GitHub! I'm a Fourth Year College Student excited to start developing and contributing!
+# Welcome to my GitHub! I'm a Future Software Developer excited to start developing and contributing!
 
 ## 🔭 I’m currently working on:
-- M&D Cleaning Website
-- Portfolio Website V2
+- Personal Website (chewitt1.github.io)
+- Homeless Simulator (Game Prototype)
+- Reasons Why Not (App)
+- Sims 3 CAS Name Tags (Custom Content)
 
 ## 🌱 I’m currently learning
 - Agile
