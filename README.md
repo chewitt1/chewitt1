@@ -3,14 +3,14 @@
 # Welcome to my GitHub Page! I am a Future Software Developer excited to start developing and contributing!
 
 ## 🔭 I’m currently working on:
-- Personal Website (chewitt1.github.io)
-- Homeless Simulator (Game Prototype)
-- Reasons Why Not (App)
-- Sims 3 CAS Name Tags (Custom Content)
+- LA Crime Database Web App
+- Spotify API Web App
+- DASH Inventory App
+- The Odin Project
 
 ## 🌱 I’m currently learning
 - Agile
-- React.JS
+- React + React.JS
 
 ## 🤔 I’m looking for ways to improve my software development skills
 
