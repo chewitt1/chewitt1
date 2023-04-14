@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Welcome to my GitHub Page! I am a Future Software Developer excited to start developing and contributing!
+# Welcome to my GitHub Page! I am a Software Developer who is constantly learning and improving!
 
 ## 🔭 I’m currently working on:
 - LA Crime Database Web App
@@ -9,12 +9,7 @@
 - The Odin Project
 
 ## 🌱 I’m currently learning
-- Agile
-- React + React.JS
-
-## 🤔 I’m looking for ways to improve my software development skills
-
-### ⚡Fun fact: My favorite game is Sims 3 (feel free to recommend some other types of games, I'm trying to diversify my gameplay)
+- MERN
 
 
 <!--
