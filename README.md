@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-# Welcome to my GitHub Page! I am a Software Developer who is constantly learning and improving!
+# Welcome to my GitHub Page! I am a Web Developer who is constantly learning and improving!
 
-## 🔭 I’m currently working on:
-- LA Crime Database Web App
-- Spotify API Web App
-- DASH Inventory App
-- The Odin Project
+## ✨ My Favorite Projects so far:
+- The Bruised Orange (Bar and Restaurant) website
+- Lazy Recipes website
+- M&D Cleaning website
 
-## 🌱 I’m currently learning
-- MERN
+## 🌱 I’m currently working on
+- My portfolio website
+- Sim Plans (a Sims 3 floor plan generator)
 
 
 <!--
