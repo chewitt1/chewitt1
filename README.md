@@ -4,7 +4,7 @@
 
 ## ✨ My Favorite Projects so far:
 - The Bruised Orange (Bar and Restaurant) website
-- Lazy Recipes website
+- Easy Recipes website
 - M&D Cleaning website
 
 ## 🌱 I’m currently working on
